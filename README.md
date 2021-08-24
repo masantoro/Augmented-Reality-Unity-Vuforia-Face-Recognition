@@ -1,5 +1,5 @@
-# Augmented-Reality-Unity-Vuforia-Face-Recognition
-Augmented Reality - Unity + Vuforia - Face Recognition
+# Augmented Reality | Face-Recognition
+Unity (C#) + Vuforia SDK
 
 http://transformationteam.azurewebsites.net
      
